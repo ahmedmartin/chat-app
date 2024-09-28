@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881060104990",
+    "project_id": "taest-db203",
+    "storage_bucket": "taest-db203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881060104990:android:ece22f686f319294d5d70f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881060104990-mt99cdbaetn3lt9c27sug74mpg0i9gcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCufKN1AcSiOFaeNsP803Ow9riFX2nBnlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881060104990-mt99cdbaetn3lt9c27sug74mpg0i9gcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
